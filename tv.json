@@ -1,9 +1,8 @@
 {
-  "urls": [
+  "storeHouse": [
     {
-      "name": "稳定直播",
-      "url": "https://tv.shato.ccwu.cc/live.txt",
-      "type": 0
+      "sourceName": "直播源",
+      "sourceUrl": "https://tv.shato.ccwu.cc/live.txt"
     }
   ]
 }
