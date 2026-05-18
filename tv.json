@@ -1,9 +1,9 @@
 {
-  "live": [
+  "urls": [
     {
       "name": "稳定直播",
-      "type": 0,
-      "url": "https://tv.shato.ccwu.cc/live.txt"
+      "url": "https://tv.shato.ccwu.cc/live.txt",
+      "type": 0
     }
   ]
 }
